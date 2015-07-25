@@ -1,0 +1,7 @@
+---
+title: Hello.
+date: 2015-07-23 00:08 UTC
+tags: 
+---
+
+Welcome to blurredbits' blog. It's my collection of blurry and often half-baked thoughts re: programming, gaming, sci-fi, politics and other random crap. Enjoy.

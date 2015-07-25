@@ -39,6 +39,11 @@ end
 
 activate :directory_indexes
 
+configure :development do
+  activate :livereload
+end
+
+
 ###
 # Compass
 ###

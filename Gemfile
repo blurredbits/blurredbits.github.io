@@ -4,3 +4,10 @@ gem "middleman", "~> 3.3.12"
 gem "middleman-blog", "~> 3.5.3"
 gem "middleman-deploy", "~> 1.0"
 gem "builder", "~> 3.0"
+gem "bitters"
+gem "bourbon"
+gem "neat"
+
+group :development do
+  gem 'middleman-livereload'
+end

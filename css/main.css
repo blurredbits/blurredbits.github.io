@@ -1,4 +1,28 @@
-body {
-  font-family: 'Muli', sans-serif;
+html, body {
   background-color: #576D73;
+  margin: 0;
+}
+
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+
+.box {
+  text-align: center;
+  text-shadow: 1px 1px 0 rgba(0,0,0,0.1);
+  padding: 10px;
+}
+
+.box1 { 
+  background: #576D73; 
+  width: 25%;
+}
+.box2 { 
+  border-left: 4px solid orange;
+  background: white;
+  width: 75%; 
+}
+
+.container {
+  display: flex;
+  min-height: 100vh;
 }
